@@ -1,0 +1,8 @@
+.fondo{
+    
+    background-repeat:no-repeat;
+   background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    min-height: 100vh;
+}
